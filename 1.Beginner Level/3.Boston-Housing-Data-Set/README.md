@@ -1,4 +1,4 @@
-# BigMart-Sales-Predictions
+# Bigmart Sales Data Set
 ## 1.Business Problem
 ### 1.1 Description
 This is a regression problem.In this problem you have to predict the sales of a store.The data has 14204 rows of 12 variables.
